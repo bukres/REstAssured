@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4144" started-at="2021-03-15T01:15:43 CDT" finished-at="2021-03-15T01:15:47 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4144" started-at="2021-03-15T01:15:43 CDT" finished-at="2021-03-15T01:15:47 CDT">
+      <class name="theseAPI.RestAssured.ResearchInvestorsTest">
+        <test-method status="PASS" signature="prepareTests()[pri:0, instance:theseAPI.RestAssured.ResearchInvestorsTest@35047d03]" name="prepareTests" is-config="true" duration-ms="15" started-at="2021-03-15T01:15:43 CDT" finished-at="2021-03-15T01:15:43 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTests -->
+        <test-method status="PASS" signature="research()[pri:0, instance:theseAPI.RestAssured.ResearchInvestorsTest@35047d03]" name="research" duration-ms="4099" started-at="2021-03-15T01:15:43 CDT" finished-at="2021-03-15T01:15:47 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- research -->
+      </class> <!-- theseAPI.RestAssured.ResearchInvestorsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

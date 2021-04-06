@@ -1,0 +1,11 @@
+{
+ "BaseURL": "https://research.investors.com/services/ChartService.svc/GetData",
+ "body" : "{\"req\":{\"Symbol\":\"sedg\",\"Type\":1,\"StartDate\":\"2017-03-17\",\"EndDate\":\"2019-12-30\",\"EnableBats\":true}}"   
+    
+    
+    
+    
+    
+    
+    
+}
